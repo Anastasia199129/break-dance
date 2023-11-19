@@ -1,0 +1,76 @@
+{
+  "header": {
+    "Home": "Home",
+    "Historia": "Historia",
+    "Videos": "Videos",
+    "Musica": "Musica",
+    "Fotos": "Fotos",
+    "Noticias": "Noticias",
+    "Olimpiadas": "Olimpiadas",
+    "Tutoriales": "Tutoriales",
+    "Tienda": "Tienda",
+    "Foro": "Foro",
+    "Contacto": "Contacto"
+  },
+  "IndexLinks": {
+    "Origen": "Origen",
+    "Bboy": "Bboy",
+    "Bgirl": "Bgirl",
+    "Cypher": "Cypher",
+    "Reglas": "Reglas",
+    "Batalla": "Batalla",
+    "Competicion": "Competicion",
+    "Underground": "Underground",
+    "Musicalidad": "Musicalidad",
+    "Inicios": "Inicios",
+    "Breaking": "Breaking",
+    "Nueva York": "Nueva York",
+    "HipHop": "HipHop",
+    "Break Dance": "Break Dance",
+    "Entrenamientos": "Entrenamientos",
+    "Cultura": "Cultura"
+  },
+  "Index": {
+    "title": "Holla world",
+    "subtitle": "Sigue el enlace y descubre más información."
+  },
+  "contacto": {
+    "title": "Contacto"
+  },
+  "heroTitle": {
+    "Origen": "Origen",
+    "Batalla": "Batalla",
+    "Bboy": "Bboy",
+    "Bgirl": "Bgirl",
+    "Break dance": "Break dance",
+    "Breaking": "Breaking",
+    "Competicion": "Competicion",
+    "Cultura": "Cultura",
+    "Cypher": "Cypher",
+    "Entrenamientos": "Entrenamientos",
+    "Hip-hop": "Hip-hop",
+    "Inicios": "Inicios",
+    "Musicalidad": "Musicalidad",
+    "Nueva York": "Nueva York",
+    "Reglas": "Reglas",
+    "Underground": "Underground"
+  },
+  "heroSubtitle": {
+    "Origen": "Origen",
+    "Batalla": "Batalla",
+    "Bboy": "Bboy",
+    "Bgirl": "Bgirl",
+    "Break dance": "Break dance",
+    "Breaking": "Breaking",
+    "Competicion": "Competicion",
+    "Cultura": "Cultura",
+    "Cypher": "Cypher",
+    "Entrenamientos": "Entrenamientos",
+    "Hip-hop": "Hip-hop",
+    "Inicios": "Inicios",
+    "Musicalidad": "Musicalidad",
+    "Nueva York": "Nueva York",
+    "Reglas": "Reglas",
+    "Underground": "Underground"
+  }
+}

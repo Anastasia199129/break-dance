@@ -1,0 +1,60 @@
+[
+  {
+    "id": "0",
+    "name": "Home",
+    "link": "/"
+  },
+  {
+    "id": "1",
+    "name": "Historia",
+    "link": "/historia"
+  },
+  {
+    "id": "2",
+    "name": "Videos",
+    "link": "/videos"
+  },
+
+  {
+    "id": "3",
+    "name": "Musica",
+    "link": "/musica"
+  },
+
+  {
+    "id": "4",
+    "name": "Fotos",
+    "link": "/fotos"
+  },
+
+  {
+    "id": "5",
+    "name": "Noticias",
+    "link": "/noticias"
+  },
+  {
+    "id": "6",
+    "name": "Olimpiadas",
+    "link": "/olimpiadas"
+  },
+  {
+    "id": "7",
+    "name": "Tutoriales",
+    "link": "/tutoriales"
+  },
+  {
+    "id": "8",
+    "name": "Tienda",
+    "link": "/tienda"
+  },
+  {
+    "id": "9",
+    "name": "Foro",
+    "link": "/foro"
+  },
+  {
+    "id": "10",
+    "name": "Contacto",
+    "link": "/contacto"
+  }
+]
